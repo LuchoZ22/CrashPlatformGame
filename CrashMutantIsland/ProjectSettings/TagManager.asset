@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Box
+  - JumpBox
+  - CrashBandicoot
+  - WumpaFruit
+  - CrashToken
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Game
+  - Water
+  - UI
+  - Destroyables
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2737504325
+    locked: 0
+  - name: World
+    uniqueID: 1875932595
+    locked: 0
+  - name: Objects
+    uniqueID: 1248381141
+    locked: 0
+  - name: Decorations
+    uniqueID: 2108780461
+    locked: 0
+  - name: Player
+    uniqueID: 1855840085
+    locked: 0
